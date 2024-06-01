@@ -1,11 +1,11 @@
 {
-  "name": "typescript-jest-template",
+  "name": "snip-gen",
   "version": "1.0.0",
-  "description": "TypeScript & jest template",
-  "main": "index.ts",
+  "description": "snippets generator",
+  "main": "src/index.ts",
   "scripts": {
     "test": "jest",
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
   "keywords": [],
   "author": "",
