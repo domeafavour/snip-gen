@@ -1,4 +1,4 @@
-# Typescript & jest template
+# Snippets Generator
 
 ## test
 
